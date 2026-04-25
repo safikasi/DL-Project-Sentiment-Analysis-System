@@ -21,7 +21,6 @@ Developed as part of a **6th Semester Deep Learning course**, this project focus
 
 Install dependencies:
 
-```bash
 pip install -r requirements.txt --upgrade
 
 Make sure you are using Python 3.9+ and have PyTorch installed.
@@ -37,7 +36,7 @@ Tokenization
 Vocabulary building
 Baseline model training
 
-🔗 
+🔗 https://github.com/safikasi/DL-Project-Sentiment-Analysis-System/blob/main/1%20-%20Neural%20Bag%20of%20Words.ipynb
 
 ### 🔹 2 - Recurrent Neural Networks (RNN / LSTM)
 
@@ -47,7 +46,7 @@ Sequential data handling
 Context understanding
 Long-term dependency learning
 
-🔗 
+🔗 https://github.com/safikasi/DL-Project-Sentiment-Analysis-System/blob/main/2%20-%20Recurrent%20Neural%20Networks.ipynb
 
 ###🔹 3 - Convolutional Neural Networks
 
@@ -57,7 +56,7 @@ Feature extraction
 Convolution filters
 Efficient training
 
-🔗 
+🔗 https://github.com/safikasi/DL-Project-Sentiment-Analysis-System/blob/main/3%20-%20Convolutional%20Neural%20Networks.ipynb
 
 ###🔹 4 - Transformers (BERT)
 
@@ -67,7 +66,7 @@ Pre-trained models
 Fine-tuning
 State-of-the-art performance
 
-🔗
+🔗 https://github.com/safikasi/DL-Project-Sentiment-Analysis-System/blob/main/4%20-%20Transformers.ipynb
 
 ## 🧠 Project Highlights
 
